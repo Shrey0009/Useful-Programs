@@ -43,6 +43,8 @@ The field below is for a short description of which changes you made.
 
 ### Push the Changes to Github
 
+After you made sure, that your program runs correctly, and does what it's expected to do,\
+you're ready to push your changes to your online GitHub repository.\
 Click on `Publish branch` to push your changes to your online GitHub repository.\
 
 ![Push the changes to GitHub](/pic/4.png)
@@ -50,5 +52,27 @@ Click on `Publish branch` to push your changes to your online GitHub repository.
 ### Create a Pull Request
 
 Now you need to go to your GitHub Profile, and look into your clone of this repository.\
-There will be a green button that says `compare and create pull request`.\
+There will be a green button that says `compare & pull request`.\
 
+![Compare & pull request](/pic/5.png)
+
+Afterwards you'll see some settings:
+
+![Create Pull Request](/pic/6.png)
+
+1: Base repository should be Shrey0009\Useful-Programs, the original online repo\
+2: base: main, we're trying to merge our branch with the main one\
+3: head repository: select your online copy of this repository\
+4: compare: to your newly created branch
+
+Below you can Enter a title for you Pull Request\
+For Example: My new Program (C++)
+
+Add a description what your program does.\
+After you've controlled anything, you can submit your pull request.
+
+### Finished
+
+You're done, you've created a Pull Request for you branch.\
+Please note, that it may take while for the request to get accepted.\
+It may also be necessary to make some changes.
